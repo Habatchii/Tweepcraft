@@ -10,13 +10,13 @@ Content maintained within this repository is governed under the EULA of GitHub a
 # Appliances and Maintainers:
 Tweepcraft requires credentialing to access the S-Terminal. Maintainers commit appliance COI's which hosted by the Tweepcraft chipset core.
 
-## Bug Tracker
-## Runtime Servelet Manager
-## Advanced Text Editor
-## Node Chipset COI Library
-## DFN Navigator 
-## OpenNebula  
-## NClass UML Generator
+* Bug Tracker
+* Runtime Servelet Manager
+* Advanced Text Editor
+* Node Chipset COI Library
+* DFN Navigator 
+* OpenNebula  
+* NClass UML Generator
 
 # Negotiation Conferences:
 # Operational Scope:
