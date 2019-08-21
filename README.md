@@ -10,8 +10,8 @@ Content maintained within this repository is governed under the EULA of GitHub a
 Appliances and Maintainers:
 Tweepcraft requires credentialing to access the T-Terminal. Maintainers commit appliances which are part of the Tweepcraft chipset core.
 
-# Bug tracking
-# Runtime Manager
+# Bug Tracker
+# Runtime Servelet Manager
 # Advanced Text Editor
 # Node Chipset COI Library
 # DFN Navigator 
