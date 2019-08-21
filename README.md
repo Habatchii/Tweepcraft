@@ -1,5 +1,5 @@
 # Tweepcraft
-Tweepcraft is a workaround 3D graphics application for PoserPython/COLLADA accessed using Cloudbursting Stock's 'S-Terminal'.
+Tweepcraft is a workaround 3D graphics application for COLLADA/PoserPython accessed using Cloudbursting Stock's 'S-Terminal'.
 
 # Basic Jurisdiction:
 Using CLI scripts, Tweepcraft enhances the workflow of PoserPython generated content using COI instruction sets. Build and manage PHM runtimes and libraries using COI commands.
